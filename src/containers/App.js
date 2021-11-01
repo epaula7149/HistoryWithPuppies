@@ -22,7 +22,7 @@ class App extends Component {
 	}
 
 	onButtonSubmit = () => {
-		fetch('http://numbersapi.com/' + this.state.yearRequested + '/year?json', {cache: "reload"})
+		fetch('https://numbersapi.com/' + this.state.yearRequested + '/year?json', {cache: "reload"})
 		.then(response=> response.json())
 		.then(users => this.setState({factOfHistory: users}));
 
