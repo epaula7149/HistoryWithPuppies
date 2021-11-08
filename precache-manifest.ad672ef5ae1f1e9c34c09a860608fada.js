@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "946ba72264c1e6cc16f8c78930be416d",
+    "revision": "060e943226fa43c7a40f877e4a3a9dcf",
     "url": "/HistoryWithPuppies/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HistoryWithPuppies/static/css/2.3b2cfc2e.chunk.css"
   },
   {
-    "revision": "0a85d690fae6218aaf49",
-    "url": "/HistoryWithPuppies/static/css/main.bef57228.chunk.css"
+    "revision": "4ea2b3750e36784b326e",
+    "url": "/HistoryWithPuppies/static/css/main.24481b48.chunk.css"
   },
   {
     "revision": "476c9c4ee298dde5673d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HistoryWithPuppies/static/js/2.affc2760.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a85d690fae6218aaf49",
-    "url": "/HistoryWithPuppies/static/js/main.0038afb1.chunk.js"
+    "revision": "4ea2b3750e36784b326e",
+    "url": "/HistoryWithPuppies/static/js/main.ee1151f5.chunk.js"
   },
   {
     "revision": "41e945c58a59f410e0a0",
