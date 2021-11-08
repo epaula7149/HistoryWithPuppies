@@ -1,13 +1,12 @@
 import React from 'react';
 import Fact from './Fact';
 
-const FactList = ({yearRequested, factOfHistory, puppy}) => { 
-
+const FactList = ({factOfHistory, puppy}) => { 
+	
 	return (
 		<div>
 				<Fact 
-					year={yearRequested}
-					text={factOfHistory.text} 
+					starWarsShip={factOfHistory} 
 					puppy={puppy.message}
 				/>
 		</div>

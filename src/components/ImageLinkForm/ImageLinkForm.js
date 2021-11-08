@@ -1,6 +1,5 @@
 import React from 'react';
 import './ImageLinkForm.css';
-//import SearchBox from '../SearchBox';
 
 const ImageLinkForm = ({ onSearchChange, onButtonSubmit }) => {
   return (
@@ -9,14 +8,14 @@ const ImageLinkForm = ({ onSearchChange, onButtonSubmit }) => {
           <input 
             className='pa14 ba b--red bg-white'
             type='text' 
-            placeholder='<- enter 4-digit YEAR ->' 
+            placeholder='<--- TRY ## (2-75) --->' 
             onChange={onSearchChange}
           />
           <div className='center'>
             <button
               className='w-28 grow f4 link ph3 pv2 dib white bg-light-purple'
               onClick={onButtonSubmit}
-            >DISCOVER<
+            >FORCE CLICK HERE<
             /button>
           </div>
 
